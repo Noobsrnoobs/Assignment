@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+.serperior, .garchomp {
+    width: 48%;  
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.serperior {
+    float: left;  
+    text-align: center; 
+}
+
+.garchomp {
+    float: left;  
+    text-align: center;  
+}
